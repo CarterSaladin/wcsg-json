@@ -1,170 +1,296 @@
 [
     {
-        "name": "Whistler/Blackcomb",
+        "name": "Whistler Blackcomb",
         "location": "British Columbia",
-        "rating": "9",
-        "price": "$220",
-        "owner": "Epic Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.whistlerblackcomb.com/-/aemasset/sitecore/whistler-blackcomb/maps/winter-2024-2025/20241115_WB_winter-trail_map_001.pdf",
-        "homepage": "https://www.whistlerblackcomb.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eo_circle_green_white_number-9.svg",
+        "price": 220,
+        "passType": "Epic Pass",
+        "pros": [
+            "Most Skiable Acres in NA",
+            "Mountain Operation",
+            "Backcountry/Heliskiing"
+        ],
+        "cons": [
+            "Lift lines",
+            "Lift ticket prices",
+            "Poor conditions (rain/fog)"
+        ],
+        "experience": "Whistler was always my family's go-to resort for ski trips. The mountain itself offers terrain for every skill level, from bunny hills to hikeable couloirs, and everything in-between. The Whistler village itself offers great rooms for week-long trips, and so many options for shopping and dining. Whistler is best avoided on the weekends, as it gets incredibly crowded, and lift tickets and dining are very expensive. Go mid-season to avoid wet and rainy days.",
+        "trailMap": "https://www.whistlerblackcomb.com/-/aemasset/sitecore/whistler-blackcomb/maps/winter-2024-2025/20241115_WB_winter-trail_map_001.pdf",
+        "homepage": "https://www.whistlerblackcomb.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d81889.33011590254!2d-123.08391570979!3d50.10422894929311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5487234d067bf9cd%3A0x5ce9daf022b0baa!2sWhistler%20Blackcomb!5e0!3m2!1sen!2sus!4v1741549621510!5m2!1sen!2sus"
+        },
       {
         "name": "Snowbird",
         "location": "Utah",
-        "rating": "9",
-        "price": "$203",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.snowbird.com/the-mountain/maps/winter-trail-map",
-        "homepage": "https://www.snowbird.com/"
-      },
-      {
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eo_circle_green_white_number-9.svg",
+        "price": 203,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Intermediate-expert terrain",
+            "Backcountry",
+            "Snow conditions"
+        ],
+        "cons": [
+            "Lift lines",
+            "Lift ticket price",
+            "Lack of beginner runs"
+        ],
+        "experience": "This mountain is an expert's paradise, located in the Wasatch Range of Utah, they get some of the best snow on Earth. The Mineral Basin part of the resort is genuinely some of the best skiing I have ever had. The tram that goes to the peak of the mountain is a tourist trap and the wait is incredibly long. Snowbird is home to some of the coolest side- and backcountry in Utah, and has one of the most renowned runs in the country, Pipeline. A must-visit for those in the SLC area.",
+        "trailMap": "https://www.snowbird.com/the-mountain/maps/winter-trail-map",
+        "homepage": "https://www.snowbird.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12120.552268688432!2d-111.66177355595335!3d40.58270773388053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87527085d07fe1bb%3A0xb6b6f8f78ca7f01f!2sSnowbird%2C%20UT%2084092!5e0!3m2!1sen!2sus!4v1741549684641!5m2!1sen!2sus"
+    },
+       {
         "name": "Park City/Canyons",
         "location": "Utah",
-        "rating": "8",
-        "price": "$328",
-        "owner": "Epic Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.parkcitymountain.com/the-mountain/about-the-mountain/trail-map.aspx",
-        "homepage": "https://www.parkcitymountain.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 328,
+        "passType": "Epic Pass",
+        "pros": [
+            "Huge footprint",
+            "Mountain operation",
+            "Crazy parks"
+        ],
+        "cons": [
+            "Ticket price",
+            "Little vertical drop",
+            "Difficult to navigate"
+        ],
+        "experience": "Park City is a massive resort that comes with a massive price tag. The sheer size of the resort has something for everyone, but lacks the true expert terrain that most Utah resorts offer. Many skiers are priced out of skiing here, and you can see that in the population of the mountain—there are a lot of beginner to intermediate skiers. The snow, when they get it, is to die for, light and fluffy, and they get tons of it. Really cool mountain for those who can cough up the change.",
+        "trailMap": "https://www.parkcitymountain.com/the-mountain/about-the-mountain/trail-map.aspx",
+        "homepage": "https://www.parkcitymountain.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.68545560798!2d-111.55171861556438!3d40.658863567142866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8752729c585de5df%3A0xfb4938052215e3af!2sPark%20City%20Mountain!5e0!3m2!1sen!2sus!4v1741549771553!5m2!1sen!2sus"
+    },
       {
         "name": "Mt Baker",
         "location": "Washington",
-        "rating": "8",
-        "price": "$105",
-        "owner": "Independent",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.mtbaker.us/the-mountain/trail-map/",
-        "homepage": "https://www.mtbaker.us/"
-      },
-      {
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 105,
+        "passType": "Independent",
+        "pros": [
+            "Family operated",
+            "Snowfall",
+            "Backcountry"
+        ],
+        "cons": [
+            "Slow lifts",
+            "Poor grooming",
+            "Relatively inaccessible"
+        ],
+        "experience": "Located 90 minutes outside of Bellingham, Baker is one of the gems of the PNW. Internationally known for its record snowfall, Mt Baker gets dumped on year after year. Just far enough away from the Seattle and Vancouver metro areas, Baker is a local's paradise. This snowboarder haven has extremely accessible backcountry and challenging expert terrain. While this is not the best mountain for beginners, intermediate skiers can become experts in no time.",
+        "trailMap": "https://www.mtbaker.us/the-mountain/trail-map/",
+        "homepage": "https://www.mtbaker.us/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21000.880995608975!2d-121.68589527087227!3d48.85611040173658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5484f615f7b9cc1f%3A0x144ebb99b36b27a2!2sMt.%20Baker%20Ski%20Area!5e0!3m2!1sen!2sus!4v1741549818030!5m2!1sen!2sus"
+    },
+       {
         "name": "Snowbasin",
         "location": "Utah",
-        "rating": "8",
-        "price": "$219",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.snowbasin.com/the-mountain/trail-maps/",
-        "homepage": "https://www.snowbasin.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 219,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Crowds",
+            "Snow conditions",
+            "Infrastructure"
+        ],
+        "cons": [
+            "Slow lifts",
+            "Wind",
+            "Lack of expert terrain"
+        ],
+        "experience": "My first time at Snowbasin exceeded all of my expectations. All the lodges are like rich guy hunting lodges, and the rest of the resort encapsulates that vibe. The light and fluffy Utah snow that it gets is tossed around by the wind, making great conditions in some areas but not others. A much-needed gondola services the wind-battered back side, and a tram can take you to the summit. A super cool mountain that would benefit from a true expert area.",
+        "trailMap": "https://www.snowbasin.com/the-mountain/trail-maps/",
+        "homepage": "https://www.snowbasin.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001.970404279867!2d-111.86402452428517!3d41.20061880755984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8753081dad4b4bc3%3A0xf6b51cbb086af06f!2sSnowbasin%20Resort!5e0!3m2!1sen!2sus!4v1741549963139!5m2!1sen!2sus"
+    },
       {
         "name": "Schweitzer",
         "location": "Idaho",
-        "rating": "8",
-        "price": "$150",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.schweitzer.com/mountain-info/maps",
-        "homepage": "https://www.schweitzer.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 150,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Terrain",
+            "Crowds",
+            "Snow conditions"
+        ],
+        "cons": [
+            "Foggy",
+            "Funky lift setup",
+            "Little beginner terrain"
+        ],
+        "experience": "From the top of Schweitzer, you can see WA, ID, MT, BC, and AB, as well as Lake Pend Oreille, and it is beautiful—when you can actually see it. Fog and low visibility conditions hold this mountain back from being one of the best in the Northwest. Fantastic intermediate to expert terrain that gets a good amount of snowfall is ideal for a resort of its size. Lacking in beginner areas, this is not the place to take your grandma, but if you're a ripper, have a lot of fun.",
+        "trailMap": "https://www.schweitzer.com/mountain-info/maps",
+        "homepage": "https://www.schweitzer.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2650.6440033510926!2d-116.62559422389978!3d48.36736393513638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5363cf006fa88f7b%3A0x4c6948bdc39e2e78!2sSchweitzer%20Ski%20Resort!5e0!3m2!1sen!2sus!4v1741550009648!5m2!1sen!2sus"
+    },
       {
         "name": "Mt Bachelor",
         "location": "Oregon",
-        "rating": "8",
-        "price": "$150",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.mtbachelor.com/the-mountain/maps/winter-lift-trail-map",
-        "homepage": "https://www.mtbachelor.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 150,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Unique footprint",
+            "Fast lifts",
+            "Proximity to Bend, OR"
+        ],
+        "cons": [
+            "Inconsistent openings",
+            "Lack of snowfall",
+            "Poor facilities"
+        ],
+        "experience": "Mt Bachelor is an extremely unique mountain due to its 360-degree footprint— all sides of the mountain are skiable. The snow, when they get it, is better than most in the PNW. The lifts and mountain operation get you where you want to be fast, but expert areas of the mountain have variable openings due to extreme winds and other alpine weather events. With Bachelor's proximity to Bend, there is lots of opportunity to find something fun to do when the skiing is done.",
+        "trailMap": "https://www.mtbachelor.com/the-mountain/maps/winter-lift-trail-map",
+        "homepage": "https://www.mtbachelor.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2870.5290021518936!2d-121.68725222414153!3d43.98978903059676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54b8b9ae8ce30bd7%3A0x9a1e1f0cf4a846e5!2sMt.%20Bachelor%20Ski%20Resort!5e0!3m2!1sen!2sus!4v1741550052063!5m2!1sen!2sus"
+    },
       {
         "name": "Crystal Mountain",
         "location": "Washington",
-        "rating": "8",
-        "price": "$170",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.crystalmountainresort.com/the-mountain/trail-maps",
-        "homepage": "https://www.crystalmountainresort.com/"
-      },
-      {
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Eo_circle_light-green_number-8.svg",
+        "price": 170,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Large footprint for WA",
+            "Lots of snowfall",
+            "Beautiful scenery"
+        ],
+        "cons": [
+            "Wet snow",
+            "Long lift lines",
+            "Fog"
+        ],
+        "experience": "Crystal Mountain sits in the shadow of Mt. Rainier, and on bluebird days, it is nothing short of gorgeous. A balance in beginner and intermediate/expert terrain offers a lot for varying skill levels. While Crystal gets a lot of snow annually, much of it is the signature PNW 'Cascade Concrete'—wet and heavy snow. Lift lines are long, and crowd control is spotty at times, as well as tickets being very expensive. However, nice days really make this mountain worth it.",
+        "trailMap": "https://www.crystalmountainresort.com/the-mountain/trail-maps",
+        "homepage": "https://www.crystalmountainresort.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2724.3428708863853!2d-121.47732822398102!3d46.93529993409319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5490b9cdfca91a49%3A0x1367b65ca6218669!2sCrystal%20Mountain%20Resort!5e0!3m2!1sen!2sus!4v1741550094592!5m2!1sen!2sus"
+    },
+     {
         "name": "White Pass",
         "location": "Washington",
-        "rating": "7",
-        "price": "$95",
-        "owner": "Independent",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://skiwhitepass.com/the-mountain/trail-maps",
-        "homepage": "https://skiwhitepass.com/"
-      },
-      {
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Eo_circle_yellow_white_number-7.svg",
+        "price": 95,
+        "passType": "Independent",
+        "pros": [
+            "Family operated",
+            "Flowy runs",
+            "Good vibes"
+        ],
+        "cons": [
+            "Out of the way",
+            "High winds",
+            "Slow lifts"
+        ],
+        "experience": "White Pass is an independent mountain, and you can feel it when you're there. Many of the blue and black diamond runs have rollers and offer a really flowy experience. The vibes are high, and the locals are fun to be around. White Pass does get a lot of wind, and large portions of the mountain are closed for long periods of time. They also don't operate high-speed lifts, so getting around can be a hassle. For those willing to make the drive, they get their bang for their buck.",
+        "trailMap": "https://skiwhitepass.com/the-mountain/trail-maps",
+        "homepage": "https://skiwhitepass.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2739.4636770821935!2d-121.39389822399774!3d46.63735675440473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54973b0fabf486e3%3A0xdf4be958f1498184!2sWhite%20Pass%20Ski%20Area!5e0!3m2!1sen!2sus!4v1741550148051!5m2!1sen!2sus"
+    },
+       {
         "name": "Northstar",
         "location": "California",
-        "rating": "6",
-        "price": "$237",
-        "owner": "Epic Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.northstarcalifornia.com/the-mountain/about-the-mountain/trail-map.aspx",
-        "homepage": "https://www.northstarcalifornia.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Eo_circle_amber_number-6.svg",
+        "price": 237,
+        "passType": "Epic Pass",
+        "pros": [
+            "Long, fast lifts",
+            "Excellent grooming",
+            "Village base"
+        ],
+        "cons": [
+            "Mountain operation",
+            "Crowds",
+            "No double black runs"
+        ],
+        "experience": "Northstar is located right off Lake Tahoe, and the views are beautiful. The lifts are long and have lots of vertical drop, and the groomers are really good for carving. However, I have never seen lift line management as bad as it was here. Multiple 6-pack chairs should allow for lots of uploading, but the queues are unmanaged and a free-for-all, compounding the issues of crowding. Northstar, also, is the only mountain I have ever seen with 0 expert runs.",
+        "trailMap": "https://www.northstarcalifornia.com/the-mountain/about-the-mountain/trail-map.aspx",
+        "homepage": "https://www.northstarcalifornia.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.0718415041965!2d-120.12825882437966!3d39.26393652499426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8099630072708613%3A0x70f7fd35b5d05fd7!2sNorthstar%20Mountain%20Resort!5e0!3m2!1sen!2sus!4v1741550188346!5m2!1sen!2sus"
+    },
       {
         "name": "Brighton",
         "location": "Utah",
-        "rating": "6",
-        "price": "$170",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.brightonresort.com/trail-maps",
-        "homepage": "https://www.brightonresort.com/"
-      },
-      {
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Eo_circle_amber_number-6.svg",
+        "price": 170,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Snow quality",
+            "Ticket discounts",
+            "Good terrain"
+        ],
+        "cons": [
+            "Crowds",
+            "Confusing navigation",
+            "Major choke-points"
+        ],
+        "experience": "Brighton offers a lot to every skier, with lots of beginner runs and backcountry access right off the lifts. They get the Utah fluff common in the SLC area, and Wednesdays have discounted ticket rates. They also offer night skiing. Getting around the mountain is a struggle and can lead to some major crowding as people try to get back and forth across the mountain. The discounts on Wednesday also mean larger crowds in the midweek, which increases the logistical problems.",
+        "trailMap": "https://www.brightonresort.com/trail-maps",
+        "homepage": "https://www.brightonresort.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24235.24086128776!2d-111.59962835553127!3d40.598884830041015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875271779e7d9723%3A0xef883558ef266180!2sBrighton%20Resort!5e0!3m2!1sen!2sus!4v1741550238410!5m2!1sen!2sus"
+    },
+     {
         "name": "Heavenly",
         "location": "California",
-        "rating": "6",
-        "price": "$232",
-        "owner": "Epic Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.skiheavenly.com/-/aemasset/sitecore/heavenly/maps/20241105_HV_winter-trail_map_001.jpg",
-        "homepage": "https://www.skiheavenly.com/"
-      },
-      {
-        "name": "Steven's Pass",
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Eo_circle_amber_number-6.svg",
+        "price": 232,
+        "passType": "Epic Pass",
+        "pros": [
+            "Gladed skiing",
+            "On-mountain facilities",
+            "Incredible views"
+        ],
+        "cons": [
+            "Difficult to navigate",
+            "Lift ticket price",
+            "Long lifts"
+        ],
+        "experience": "Heavenly sits above Lake Tahoe and is split down the middle with the Nevada/California state line. Each side has a completely different vibe, as the Nevada side shields the wind for the California side. Much of the best terrain is stuck behind painfully slow lifts, and the main runs aren't very inspiring. Long traverses connect each side of the mountain, but they are quite a trek. I left Heavenly expecting more, especially for the ticket price.",
+        "trailMap": "https://www.skiheavenly.com/-/aemasset/sitecore/heavenly/maps/20241105_HV_winter-trail_map_001.jpg",
+        "homepage": "https://www.skiheavenly.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.7925277732525!2d-119.90769022439564!3d38.92871934485597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80999044afd5ad6b%3A0x81f85ee0ddf8ee98!2sHeavenly%20Mountain%20Resort!5e0!3m2!1sen!2sus!4v1741550276898!5m2!1sen!2sus"
+    },
+       {
+        "name": "Stevens Pass",
         "location": "Washington",
-        "rating": "4",
-        "price": "$150",
-        "owner": "Epic Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.stevenspass.com/-/aemasset/sitecore/stevens-pass/maps/winter-2024-2025/20241115_SV_winter-trail_map_001.pdf",
-        "homepage": "https://www.stevenspass.com/"
-      },
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Eo_circle_orange_number-4.svg",
+        "price": 150,
+        "passType": "Epic Pass",
+        "pros": [
+            "Night skiing",
+            "Intermediate terrain",
+            "Snowfall"
+        ],
+        "cons": [
+            "Fog",
+            "Crowds",
+            "Horrible parking"
+        ],
+        "experience": "Stevens Pass' logo is a bluebird, ironic because it is always foggy. As my home mountain for 17 seasons, I have seen it all—the annual increase in crowds/lift lines, rising ticket prices, and the removal of the local feel that I remember. Stevens offers a solid expert-only area and has some of the best night skiing in the country, but between the parking, fog, and lift lines, little is notable anymore about my once-beloved second home.",
+        "trailMap": "https://www.stevenspass.com/-/aemasset/sitecore/stevens-pass/maps/winter-2024-2025/20241115_SV_winter-trail_map_001.pdf",
+        "homepage": "https://www.stevenspass.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21466.82690703108!2d-121.10909717500907!3d47.73579816991318!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54905d2bd90ba40d%3A0xf2d39d5a73b9767!2sStevens%20Pass!5e0!3m2!1sen!2sus!4v1741550312749!5m2!1sen!2sus"
+    },
       {
         "name": "The Summit at Snoqualmie",
         "location": "Washington",
-        "rating": "3",
-        "price": "$119",
-        "owner": "Ikon Pass",
-        "pros": "pros",
-        "cons": "cons",
-        "description": "description",
-        "trail": "https://www.summitatsnoqualmie.com/trail-maps",
-        "homepage": "https://www.summitatsnoqualmie.com/"
-      }
+        "ratingImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Eo_circle_red_white_number-2.svg",
+        "price": 119,
+        "passType": "Ikon Pass",
+        "pros": [
+            "Beginner terrain",
+            "Proximity to Seattle",
+            "Night skiing"
+        ],
+        "cons": [
+            "Horrible conditions",
+            "Little vertical drop",
+            "I-90 noise"
+        ],
+        "experience": "You couldn't pay me to ski here. The only redeeming qualities are for beginners and they offer night skiing. Otherwise, the altitude is really low, meaning wet snow, rain, and consistent fog. The mountain is a wide hill that has little vertical drop, good for learning, bad for ripping. It sits right off I-90, the main highway between each side of the state, meaning you hear car noise while skiing. I personally like my mountains to have disconnect. Only come here to learn.",
+        "trailMap": "https://www.summitatsnoqualmie.com/trail-maps",
+        "homepage": "https://www.summitatsnoqualmie.com/",
+        "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d21594.84802944236!2d-121.45423452568356!3d47.424501200000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x549a790bc0000001%3A0x5b42503c6c39632c!2sThe%20Summit%20at%20Snoqualmie!5e0!3m2!1sen!2sus!4v1741550359172!5m2!1sen!2sus"
+    }
 ]
